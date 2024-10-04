@@ -8,5 +8,4 @@ Full stack ToDo List made with the following:
 - Redux with Redux Toolkit + persist
 - GraphQL API
 - AWS Amplify, AppSync, Cognito, DynamoDB
-- Styled Components with dark mode toggler
 
